@@ -1,4 +1,4 @@
-# Citi-Bike Trends
+# CitiBike Usage Trends
 
 # Prompt
 Using open data from Citi Bike ([Data Source](https://www.citibikenyc.com/system-data)) I wanted to explore any trends from that past few years. I was primarily insteresed in who was using the system, where they were going, and when they were going.
@@ -74,6 +74,15 @@ Using open data from Citi Bike ([Data Source](https://www.citibikenyc.com/system
     
 2. Tableau Charts
 
-    
+    Vist following link to see the finilized charts [Citibike Charts](https://public.tableau.com/profile/nick.voravong#!/vizhome/CitiBike2017-2020/CitiBikeTrends)
+
+3. Trend & Observations
+
+    * Annual subscriber count was adding over a million users per year from 2017 - 2019. Most likely due to the pandemic the subscriber count dropped by over 2.8 million members. However, a 58% increase in non-subscribers helped the total ridership drop only by around 1 million. 
+    * Peak usage for bikes occurs around August and September before drastically dropping off during the winter month. Typically December and January have the lowest totals for the year. This could be a good time for station and bike maintenance.
+    * If there have been any efforts to increase female ridership they have been paying off. There has been a steady increase in the percentage of female riders. The highest share of female ridership (30%) occurred in June 2020. Five points higher than any previous record high in 2019 of 25%. The month to month percetange of female riders for 2020 was also higher than that record high from 2019.
+    * There isn’t a strong correlation between how often a bike is rented vs how long it’s on the road.
+    * The most used stations were typically near greenspaces with 10 of the top fifty most used stations around Central Park.
+
     
     
